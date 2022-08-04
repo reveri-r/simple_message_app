@@ -1,16 +1,16 @@
-# app
+### **🧰 Installation**
 
-A new Flutter project.
+- $ flutter create app
 
-## Getting Started
+- and then paste the lib folder
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### **🌐 Run Flutter in Chrome**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- $ flutter channel stable
+
+- $ flutter upgrade
+
+- $ flutter run -d chrome
+
